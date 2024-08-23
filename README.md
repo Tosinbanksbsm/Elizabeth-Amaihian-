@@ -38,3 +38,5 @@ Quick Start;
 a. Create a new project in unity,
 b. Clone this repository in the root project folder,
 c. Delete sample scene from your Unity project if it exists and switch to the MovingAgent scene in the scene folder and Press Play...
+
+This project is done in Unity 6000.0.15 with the UnityProlog framework
