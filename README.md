@@ -13,6 +13,15 @@ A simulation for an automated Bird in Unity Development. This project implements
 # Performance measure 
 - How much energy is used
 
+ 
+ 1. Support for training single-agent, via several Deep Reinforcement Learning algorithms (PPO, SAC, MA-POCA, self-play).
+ 2. Support for learning from demonstrations through two Imitation Learning algorithms (BC and GAIL).
+ 3. Quickly and easily add your own custom training algorithm and/or components.
+  4. Easily definable Curriculum Learning scenarios for complex tasks
+  5. Train robust agents using environment randomization
+ 6.  Utilizes the Sentis to provide native cross-platform support
+  7. Unity environment control from Python
+
 
 
 # What you will see when you run the simulation...
